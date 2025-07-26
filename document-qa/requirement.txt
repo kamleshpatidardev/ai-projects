@@ -1,4 +1,0 @@
-streamlit>=1.30.0
-torch>=2.1.0
-transformers>=4.39.0
-pdfminer.six>=20221105
