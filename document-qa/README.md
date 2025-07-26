@@ -15,4 +15,4 @@ A simple Streamlit app to upload a PDF file and ask questions about its content 
 git clone https://github.com/kamleshpatidardev/ai-projects.git
 cd document-qa
 pip install -r requirements.txt
-streamlit run main.py
+streamlit run app.py
